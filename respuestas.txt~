@@ -1,0 +1,19 @@
+Daniel Luis Martín
+Lenguajes y Paradigmas de Programación
+
+
+18. ¿Cual es el resultado de la siguiente operacion?
+2.0.0-p247 :001 > puts "Hello world"
+???
+=> ???
+2.0.0-p247 :002 >
+
+2.0.0p247 :001 > puts "Hello world"
+Hello world
+ => nil
+
+
+
+
+
+

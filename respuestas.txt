@@ -1,0 +1,26 @@
+Daniel Luis Martín
+Lenguajes y Paradigmas de Programación
+
+
+18. ¿Cual es el resultado de la siguiente operacion?
+2.0.0-p247 :001 > puts "Hello world"
+???
+=> ???
+2.0.0-p247 :002 >
+
+2.0.0p247 :001 > puts "Hello world"
+Hello world
+ => nil
+
+
+21. ¿Cuales son las diferencias entre la ejecucion del programa "Hola Mundo" con el interprete de Ruby (ruby helloWorld.rb) y el interprete interactivo del ejercicio anterior? Escriba la respuesta en ﬁchero creado en el ejercicio 9.
+
+La diferencia entre la ejecución del programa con el intérprete de ruby y el intérprete interactivo es la siguiente:
+
+El intérprete interactivo analiza y muestra linea a linea todo el fichero y si hay algo que pueda interpretar lo interpreta. El intérprete de ruby directamente analiza todo el fichero directamente 
+y si hay algo que interpretar lo interpreta.
+
+
+
+
+
